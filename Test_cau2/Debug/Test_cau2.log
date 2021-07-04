@@ -1,0 +1,2 @@
+﻿  main.c
+c:\users\khoi\source\repos\test_cau2\test_cau2\main.c(12): error C2440: 'initializing': cannot convert from 'uint16_t' to 'S16bit'
